@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Documentos\My Projects\TempFolderApp\bin\Release\net8.0\publish\TempFolderApp.exe
+C:\Users\Usuario\OneDrive\Documentos\My Projects\TempFolderApp\bin\Release\net8.0\publish\config.json
+C:\Users\Usuario\OneDrive\Documentos\My Projects\TempFolderApp\bin\Release\net8.0\publish\TempFolderApp.dll
+C:\Users\Usuario\OneDrive\Documentos\My Projects\TempFolderApp\bin\Release\net8.0\publish\TempFolderApp.deps.json
+C:\Users\Usuario\OneDrive\Documentos\My Projects\TempFolderApp\bin\Release\net8.0\publish\TempFolderApp.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\My Projects\TempFolderApp\bin\Release\net8.0\publish\TempFolderApp.pdb

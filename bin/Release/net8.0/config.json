@@ -1,0 +1,13 @@
+{
+  "TempFolders": [
+    {
+      "Path": "C:\\TempFolder",
+      "DeleteMode": "RecycleBin"
+    },
+    {
+      "Path": "D:\\TempFolder",
+      "DeleteMode": "PermanentDelete"
+    }
+  ],
+  "IntervalHours": 24
+}
