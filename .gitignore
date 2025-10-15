@@ -1,2 +1,6 @@
-/.vs
 .sln
+# Visual Studio
+.vs/
+# Other common ignored files for .NET projects
+bin/
+obj/
