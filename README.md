@@ -22,6 +22,6 @@ O programa foi desenvolvido em **C#** e roda em segundo plano, **sem necessidade
 ## ⚙️ Como Usar
 
 - Baixe o zip mais rescente em `Releases`.
-- Etraia o zip e rode o executavel.
-- (Observações, versão 1.0 a ser otimizada pois há sérios de uso de cpu, e tamanho de arquivo);  
+- Extraia o zip e rode o executavel.
+- (Observações, versão 1.0 a ser otimizada pois há sérios de uso de cpu excessivo, e tamanho de arquivo);  
 
