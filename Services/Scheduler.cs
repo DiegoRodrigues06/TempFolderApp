@@ -35,6 +35,7 @@ namespace TempFolderApp.Services
             var config = JsonSerializer.Deserialize<AppConfig>(json, options)
                 ?? throw new Exception("Falha ao ler o arquivo de configuração.");
 
+
             _folders = config.TempFolders;
             _intervalHours = config.IntervalHours;
         }

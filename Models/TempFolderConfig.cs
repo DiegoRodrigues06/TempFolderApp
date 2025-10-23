@@ -8,7 +8,7 @@ namespace TempFolderApp.Models
 {
     public class AppConfig
     {
-        public List<TempFolderConfig> TempFolders { get; set; }
+        public List<TempFolderConfig> TempFolders { get; set; } = new();
         public double IntervalHours { get; set; }
     }
 
